@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://cdn.dribbble.com/userupload/41793229/file/original-bdf593e10d45bcc08263d027f48ff009.gif"  />
+  <img height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWEfKrW3S6WyTDUaQULtUwy7op4XzRIGMYg&s"  />
 </div>
 
 ###
